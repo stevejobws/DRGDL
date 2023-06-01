@@ -14,12 +14,12 @@ To predict drug-disease associations by DRGDL, run
   - -d is dataset selection, including C-dataset and F-dataset.
 
 ### Options
-See help for the other available options to use with *DDAGDL*
+See help for the other available options to use with *DRGDL*
   - python main.py --help
 
 ### Requirements
 DDAGDL is tested to work under Python 3.6.0+  
-The required dependencies for DDAGDL are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
+The required dependencies for DRGDL are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
 
 ### Contacts
 If you have any questions or comments, please feel free to email BoWei Zhao (stevejobwes@gmail.com).
