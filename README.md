@@ -18,7 +18,7 @@ See help for the other available options to use with *DRGDL*
   - python main.py --help
 
 ### Requirements
-DDAGDL is tested to work under Python 3.6.0+  
+DRGDL is tested to work under Python 3.6.0+  
 The required dependencies for DRGDL are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
 
 ### Contacts
